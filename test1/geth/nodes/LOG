@@ -1,0 +1,11 @@
+=============== Nov 1, 2020 (EST) ===============
+16:46:19.419490 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:46:19.454701 db@open opening
+16:46:19.460069 version@stat F·[] S·0B[] Sc·[]
+16:46:19.471245 db@janitor F·2 G·0
+16:46:19.471697 db@open done T·16.952787ms
+17:48:23.173005 memdb@flush N·41033 S·3MiB
+17:48:23.227626 memdb@flush created L0@3 N·41033 S·812KiB "loc..seq,v23":"version,v1"
+17:48:23.228181 version@stat F·[1] S·812KiB[812KiB] Sc·[0.25]
+17:48:23.234203 memdb@flush committed F·1 T·58.064937ms
+17:48:23.253869 journal@remove removed @1
