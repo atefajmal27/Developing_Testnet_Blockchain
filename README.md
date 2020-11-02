@@ -18,5 +18,11 @@ To achieve my goal, first I needed to install:
 ### Creating the blockchain
 Since I will be used the Proof of Authority (PoA) algorithm, I needed to generate two new nodes with new account addresses that will serve as pre-approved sealer addresses. I named the first node as "test1" and the second as "test2". I created only two nodes because two is enough to create a chain and would enough for testing purposes as well. I ran these two lines of commands below to create Create accounts for two nodes for the network with a separate datadir for each using geth.
 
-`./geth --datadir test1 account new`
+`./geth --datadir test1 account new`</br>
 `./geth --datadir test2 account new`
+
+<img src="https://user-images.githubusercontent.com/62320593/97825932-1fd63d80-1c8e-11eb-85ad-a902e13970d3.png" width="700" height="300"/>
+
+Next, I generated genesis block as shown below. I named the network as "chained" and used the addresses from the previous step to pre-fund the accounts.
+
+<img src="https://user-images.githubusercontent.com/62320593/97826030-7f344d80-1c8e-11eb-985e-cf789aec0764.png" width="700" height="330"/>
