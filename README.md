@@ -23,6 +23,7 @@ Since I will be used the Proof of Authority (PoA) algorithm, I needed to generat
 
 <img src="https://user-images.githubusercontent.com/62320593/97825932-1fd63d80-1c8e-11eb-85ad-a902e13970d3.png" width="700" height="300"/>
 
-Next, I generated genesis block as shown below. I named the network as "chained" and used the addresses from the previous step to pre-fund the accounts.
+Next, I generated genesis block as shown below. I named the network as "chained" and used the addresses from the previous step to pre-fund the accounts. Although I ran into two errors, while exporting genesis configurations, I only needed to chained.json for this network.
 
-<img src="https://user-images.githubusercontent.com/62320593/97826030-7f344d80-1c8e-11eb-985e-cf789aec0764.png" width="700" height="360"/>
+<img src="https://user-images.githubusercontent.com/62320593/97826030-7f344d80-1c8e-11eb-985e-cf789aec0764.png" width="700" height="380"/>
+<img src="https://user-images.githubusercontent.com/62320593/97826740-6a58b980-1c90-11eb-9ee3-1459bc53830e.png" width="700" height="150"/>
