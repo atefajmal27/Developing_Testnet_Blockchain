@@ -25,4 +25,4 @@ Since I will be used the Proof of Authority (PoA) algorithm, I needed to generat
 
 Next, I generated genesis block as shown below. I named the network as "chained" and used the addresses from the previous step to pre-fund the accounts.
 
-<img src="https://user-images.githubusercontent.com/62320593/97826030-7f344d80-1c8e-11eb-985e-cf789aec0764.png" width="700" height="330"/>
+<img src="https://user-images.githubusercontent.com/62320593/97826030-7f344d80-1c8e-11eb-985e-cf789aec0764.png" width="700" height="360"/>
