@@ -39,6 +39,10 @@ With the private PoA blockchain and the nodes up and running, it was time to add
 <img src="https://user-images.githubusercontent.com/62320593/97832428-cc211f80-1ca0-11eb-9e53-3e7302a08feb.png" width="700" height="330"/>
 <img src="https://user-images.githubusercontent.com/62320593/97832444-d0e5d380-1ca0-11eb-9a9e-efb58bc0c1ea.png" width="700" height="330"/>
 
+Now that I logged on and got a large amount of balance in the account, it was time to make a transaction. I sent 100k ETH tokens from node 1 to node 2 and the transaction was completed within a few seconds.
+
+<img src="https://user-images.githubusercontent.com/62320593/97832627-4c478500-1ca1-11eb-93c3-4c94a361ba1b.png" width="700" height="330"/>
+<img src="https://user-images.githubusercontent.com/62320593/97832630-4e114880-1ca1-11eb-94b9-877ea6c01613.png" width="700" height="500"/>
 
 
 
