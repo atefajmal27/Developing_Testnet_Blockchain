@@ -36,8 +36,8 @@ After the genesis block creation was completed, it was time to initialize the no
 
 With the private PoA blockchain and the nodes up and running, it was time to add the network to MyCrypto. So I created a custom network for chained and connected with the account with pre-funded balance.
 
-<img src="https://user-images.githubusercontent.com/62320593/97832428-cc211f80-1ca0-11eb-9e53-3e7302a08feb.png" width="700" height="300"/>
-<img src="https://user-images.githubusercontent.com/62320593/97832444-d0e5d380-1ca0-11eb-9a9e-efb58bc0c1ea.png" width="700" height="300"/>
+<img src="https://user-images.githubusercontent.com/62320593/97832428-cc211f80-1ca0-11eb-9e53-3e7302a08feb.png" width="700" height="330"/>
+<img src="https://user-images.githubusercontent.com/62320593/97832444-d0e5d380-1ca0-11eb-9a9e-efb58bc0c1ea.png" width="700" height="330"/>
 
 
 
