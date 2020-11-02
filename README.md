@@ -31,8 +31,14 @@ Next, I generated genesis block as shown below. I named the network as "chained"
 After the genesis block creation was completed, it was time to initialize the nodes with the genesis' json file as shown below followed by commanding the nodes to start mining. 
 
 <img src="https://user-images.githubusercontent.com/62320593/97832125-0ccc6900-1ca0-11eb-9b9d-3ccb87795a67.png" width="700" height="200"/>
-<img src="https://user-images.githubusercontent.com/62320593/97832137-10f88680-1ca0-11eb-9c09-3808ded94817.png" width="700" height="440"/>
-<img src="https://user-images.githubusercontent.com/62320593/97832154-18b82b00-1ca0-11eb-9e10-1b4dd8724443.png" width="700" height="440"/>
+<img src="https://user-images.githubusercontent.com/62320593/97832137-10f88680-1ca0-11eb-9c09-3808ded94817.png" width="700" height="450"/>
+<img src="https://user-images.githubusercontent.com/62320593/97832154-18b82b00-1ca0-11eb-9e10-1b4dd8724443.png" width="700" height="450"/>
+
+With the private PoA blockchain and the nodes up and running, it was time to add the network to MyCrypto. So I created a custom network for chained and connected with the account with pre-funded balance.
+
+<img src="https://user-images.githubusercontent.com/62320593/97832428-cc211f80-1ca0-11eb-9e53-3e7302a08feb.png" width="700" height="300"/>
+<img src="https://user-images.githubusercontent.com/62320593/97832444-d0e5d380-1ca0-11eb-9a9e-efb58bc0c1ea.png" width="700" height="300"/>
+
 
 
 
